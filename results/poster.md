@@ -53,15 +53,15 @@ Conclusiones y recomendaciones
 
 Gráficas (local vs no_local):
 
-- avg_C1.png
+- Promedio C1 por instacia (local vs no_local) --> imagen en plots/avg_C1.png
   ![](plots/avg_C1.png)
 
-- avg_C2.png
-  ![](plots\avg_C2.png)
+- Promedio C2 por instancia (local vs no_local) --> imagen en plots/avg_C2.png
+  ![](plots/avg_C2.png)
 
-- avg_C3.png
-  ![](plots\avg_C3.png)
+- Promedio C3 por instancia (local vs no_local) --> imagen en plots/avg_C3.png
+  ![](plots/avg_C3.png)
 
-- avg_time.png
-  ![](plots\avg_time.png)
+- Tiempo promedio (s) por instancia --> imagen en plots/avg_C3.png
+  ![](plots/avg_time.png)
 
