@@ -213,6 +213,7 @@
 - `local_search_swaps`: mejora local por intercambios entre empleados del mismo día.
 - `validate_assignment`: verificación de duplicados, empleados faltantes y escritorios inexistentes.
 - `report_assignment`: resumen por día y totales de C1/C2/C3.
- - `export_csv_template`: exporta CSVs equivalentes a la plantilla Excel (tres hojas).
- - `scripts/run_experiments.py`: barridos de semillas e instancias.
- - `scripts/summarize_results.py`: genera resúmenes CSV/MD.
+- `export_csv_template`: exporta CSVs equivalentes a la plantilla Excel (tres hojas).
+- `scripts/run_experiments.py`: barridos de semillas e instancias.
+- `scripts/summarize_results.py`: genera resúmenes CSV/MD.
+- `scripts/make_poster_assets.py`: genera `results/poster.md` y las gráficas `results/plots/*.png` a partir de `results/summary.csv`.
