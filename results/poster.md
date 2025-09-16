@@ -54,7 +54,7 @@ Conclusiones y recomendaciones
 Gráficas (local vs no_local):
 
 - avg_C1.png
-  ![](plots\avg_C1.png)
+  ![](plots/avg_C1.png)
 
 - avg_C2.png
   ![](plots\avg_C2.png)
