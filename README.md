@@ -109,7 +109,7 @@
 - Comando base (desde la raíz del repo):
   - `python instances/entrega1.py` (lee `instances/instance1.json`, guarda en `instances/solutions/…`).
 - Comando PRINCIPAL.
-  -  `python .\instances\entrega1.py --in instance10.json --local-search --iters 1000 --seed 42 --top-k 3 --report --validate` (ejemplo de comando para evaluar cualquier instancia, solo es cambiarle el numero de la instancia -> (--in instanceX.json), tambien se le puede ajustas la alietoriedad cambiandole el numero a la semilla -> (--seed <n>) y los puestos preferidos a tener en cuenta del empleado -> (--top-k <k>)) 
+  -  `python .\instances\entrega1.py --in instance10.json --local-search --iters 1000 --seed 42 --top-k 3 --report --validate` (ejemplo de comando para evaluar cualquier instancia, solo es cambiarle el numero de la instancia -> (--in instanceX.json), tambien se le puede ajustar la aleatoriedad cambiandole el numero a la semilla -> (--seed <n>) y los puestos preferidos a tener en cuenta del empleado -> (--top-k <k>)) 
 
 - Flags principales:
   - `--in <archivo>`: instancia a usar. Ej: `--in instance7.json`.
